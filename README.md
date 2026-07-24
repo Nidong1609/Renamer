@@ -41,6 +41,16 @@ That's it — the app is fully portable. To move it to another PC, just copy the
 - **7 languages** — Chinese, English, Japanese, Korean, French, German, and Spanish, switchable at runtime.
 - **Persistent settings** — window language/theme and last-used directory are saved to `config.json`, with portable mode (config next to the executable) supported.
 
+### Screenshots
+
+| Number Rename | Order Rename |
+|---|---|
+| ![Number Rename](assets/e1.png) | ![Order Rename](assets/e2.png) |
+
+| Time Rename | Find & Replace |
+|---|---|
+| ![Time Rename](assets/e3.png) | ![Find & Replace](assets/e4.png) |
+
 ### How to Use
 
 1. Launch `BatchRenamerTool v1.0.exe` and select a target folder.
@@ -56,6 +66,7 @@ That's it — the app is fully portable. To move it to another PC, just copy the
 | `BatchRenamerTool v1.0.exe` | The application — just double-click to run. |
 | `README.md` | This documentation. |
 | `LICENSE.txt` | MIT License. |
+| `assets/` | Screenshots used by this README (e1–e4, z1–z4). |
 
 The exe is fully self-contained; you don't need to install Python or anything else.
 
@@ -113,6 +124,16 @@ Released under the [MIT License](LICENSE.txt) — © 2026 Nidong.
 - **7 种界面语言** —— 中文、英文、日文、韩文、法文、德文、西班牙文，可在运行时随时切换。
 - **配置持久化** —— 界面语言、主题以及上次使用的目录会保存到 `config.json`，同时支持便携模式（配置文件与可执行文件放在同一目录）。
 
+### 运行截图
+
+| 序号重命名 | 按顺序重命名 |
+|---|---|
+| ![序号重命名](assets/z1.png) | ![按顺序重命名](assets/z2.png) |
+
+| 按时间重命名 | 查找与替换 |
+|---|---|
+| ![按时间重命名](assets/z3.png) | ![查找与替换](assets/z4.png) |
+
 ### 使用方法
 
 1. 双击 `BatchRenamerTool v1.0.exe` 启动，然后选择目标文件夹。
@@ -128,6 +149,7 @@ Released under the [MIT License](LICENSE.txt) — © 2026 Nidong.
 | `BatchRenamerTool v1.0.exe` | 主程序，双击即可运行。 |
 | `README.md` | 本说明文档。 |
 | `LICENSE.txt` | MIT 开源许可证。 |
+| `assets/` | 本说明文档中用到的截图（e1–e4、z1–z4）。 |
 
 该 exe 为独立可执行文件，无需另外安装 Python 或其他运行环境。
 
